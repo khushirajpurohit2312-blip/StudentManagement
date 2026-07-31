@@ -71,7 +71,7 @@ alert("Student Not Found");
 }
 
 }
-
+// Display and Delete Student Feature
 function deleteStudent(){
 
 let id=document.getElementById("id").value;
