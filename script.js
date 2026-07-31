@@ -49,6 +49,7 @@ document.getElementById("output").innerHTML=data;
 
 }
 
+// Search Student Feature
 function searchStudent(){
 
 let id=document.getElementById("id").value;
